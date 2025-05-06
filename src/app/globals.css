@@ -14,11 +14,15 @@
   cursor: pointer;
 }
 
-.buttton2{
-  background-color: yellowgreen;
+.conta{
+  background-color: burlywood;
   border-radius: 50%;
   display: flex;
   margin: 20px;
   padding: 20px;
+}
+.contador{
+  background-color: aqua;
+  color: blueviolet;
   cursor: pointer;
 }

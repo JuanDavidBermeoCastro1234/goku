@@ -11,6 +11,7 @@ export default function home(){
     <Link href='/'>
     <button className="buttton">regresar</button>
     </Link>
+    
     </>
 
     )
