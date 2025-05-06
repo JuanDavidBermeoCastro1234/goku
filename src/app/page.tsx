@@ -9,7 +9,7 @@ export default function Home (){
       <p>example</p>
 
       <Link href="hola">
-        <button>holas </button>
+        <button className="button">holas </button>
       </Link>
     </div>
     </>

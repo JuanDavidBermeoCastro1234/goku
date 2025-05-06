@@ -4,3 +4,21 @@
 .ejm{
   color: blue;
 }
+
+.button{
+  background-color: yellowgreen;
+  border-radius: 50%;
+  display: flex;
+  margin: 20px;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.buttton2{
+  background-color: yellowgreen;
+  border-radius: 50%;
+  display: flex;
+  margin: 20px;
+  padding: 20px;
+  cursor: pointer;
+}
